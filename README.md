@@ -2,6 +2,7 @@
 
 **Counter-Strike 2 is the definitive competitive FPS from Valve, rebuilt on Source 2 with improved visuals, sub-tick precision, dynamic smokes, enhanced grenade physics, new maps, reworked weapons, and the classic CS experience. Master the economy, clutches, utility usage, crosshair placement, movement (strafing, counter-strafing, peeking), and team coordination in modes like Competitive, Premier, Casual, Wingman, Deathmatch, Arms Race, and Danger Zone. With global matchmaking, ranks from Silver to Global Elite, faceit/esea integration, skin economy, operations, and constant updates — CS2 is the king of esports FPS. Now you have access to a complete set of tools for maximum control: perfect precision, full visibility, enhanced recoil control, movement advantages and much more — dominate every match and climb to the top without limitations.**
 
+
 - **Status:** fully compatible (updated January 19, 2026 — works after all Valve patches)
 - External tool — does not modify game files
 - Supports all modes: Competitive · Premier · Casual · Deathmatch · Wingman · Arms Race · All Maps
